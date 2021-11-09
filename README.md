@@ -8,18 +8,12 @@
     <a href="https://ubuntu.com/" target="_blank">
         <img src="./assets/img/ubuntu.png" width="50" height="50">
    </a>
-       <a href="https://visualstudio.microsoft.com/pt-br/vs/community/" target="_blank">
-        <img src="./assets/img/vs2019.png" width="50" height="50">
-    </a>
     <a href="https://code.visualstudio.com/" target="_blank">
         <img src="./assets/img/vscode.png" width="50" height="50">
     </a>
     <a href="https://github.com/microsoft/terminal" target="_blank">
         <img src="https://upload.wikimedia.org/wikipedia/commons/0/01/Windows_Terminal_Logo_256x256.png" width="50" height="50">
     </a>
-  <a href="https://winscp.net" target="_blank">
-    <img src="./assets/img/winscp.png" width="50" height="50">
-  </a>
    <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>
     <a href="https://expressjs.com" target="_blank">
         <img src="https://camo.githubusercontent.com/40756575fc2fd74b1883ea0cc5c2a49aa7048ab58286f43a121109d69a9ea160/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f64657669636f6e732f64657669636f6e2f69636f6e732f657870726573732f657870726573732d6f726967696e616c2e737667" alt="express" width="40" height="40">
