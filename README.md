@@ -1,4 +1,7 @@
-![Metrics](https://metrics.lecoq.io/WinG4merBR?template=classic&languages=1&languages.limit=8&languages.sections=most-used&languages.colors=github&languages.threshold=0%25&languages.indepth=false&languages.analysis.timeout=15&languages.categories=markup%2C%20programming&languages.recent.categories=markup%2C%20programming&languages.recent.load=300&languages.recent.days=14&config.timezone=America%2FSao_Paulo)
+<h1 align="left">👋 Olá, eu sou o Win! <img src="./assets/img/foxyoculos.png" height="20px"/></h1>
+
+![Metrics](https://metrics.lecoq.io/WinG4merBR?template=classic&base.repositories=0&config.timezone=America%2FSao_Paulo)
+
 
 <h3 align="center">🔨 <b>›</b> Ferramentas</h3>
 <p align="center">
@@ -24,10 +27,16 @@
                  <a href="https://discord.dev" target="_blank"> <img src="./assets/img/DiscordAPI.png" width="40" height="40"/>
           </a>
 </p>
+<br>
 <h3 align="left"> 📱 <b>›</b> Contato </h3>
 <ul align="left">
     <li>Discord: <a href="https://discord.com/users/687867247116812378">Win#6611</a></li>
     <li>Twitter: <a href="https://twitter.com/WinG4merBR">@WinG4merBR</a></li>
 </ul>
 
-[![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=WinG4merBR&theme=react-dark&custom_title=Contribution+Graph)](https://github.com/WinG4merBR)
+<div>
+  <a href="https://github.com/leoo027/">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=WinG4merBR&show_icons=true&theme=dark">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=WinG4merBR&layout=compact&theme=dark">
+  </a>
+</div>
