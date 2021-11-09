@@ -34,6 +34,10 @@
     <li>Twitter: <a href="https://twitter.com/WinG4merBR">@WinG4merBR</a></li>
 </ul>
 
+[![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=WinG4merBR&theme=react-dark&custom_title=Contribution+Graph)](https://github.com/WinG4merBR)
+
+
 <div>
     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=WinG4merBR&layout=compact&theme=dark">
 </div>
+
