@@ -34,9 +34,5 @@
     <li>Twitter: <a href="https://twitter.com/WinG4merBR">@WinG4merBR</a></li>
 </ul>
 
-<div>
-  <a href="https://github.com/leoo027/">
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=WinG4merBR&show_icons=true&theme=dark">
     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=WinG4merBR&layout=compact&theme=dark">
-  </a>
-</div>
