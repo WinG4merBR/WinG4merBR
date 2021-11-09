@@ -38,6 +38,6 @@
 
 
 <div>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=WinG4merBR&layout=compact&theme=dark">
+    <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=WinG4merBR&layout=compact&theme=dark">
 </div>
 
