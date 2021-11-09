@@ -1,8 +1,7 @@
 ![Metrics](https://metrics.lecoq.io/WinG4merBR?template=classic&languages=1&languages.limit=8&languages.sections=most-used&languages.colors=github&languages.threshold=0%25&languages.indepth=false&languages.analysis.timeout=15&languages.categories=markup%2C%20programming&languages.recent.categories=markup%2C%20programming&languages.recent.load=300&languages.recent.days=14&config.timezone=America%2FSao_Paulo)
 
-
-<h3 align="left">🔨 <b>›</b> Ferramentas</h3>
-<p align="left">
+<h3 align="center">🔨 <b>›</b> Ferramentas</h3>
+<p align="center">
     <a href="https://www.microsoft.com/pt-br/windows" target="_blank">
         <img src="./assets/img/_NSAKEY11.png" width="50" height="50"> </a>
     <a href="https://ubuntu.com/" target="_blank">
