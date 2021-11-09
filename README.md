@@ -6,7 +6,7 @@
 <h3 align="center">🔨 <b>›</b> Ferramentas</h3>
 <p align="center">
     <a href="https://www.microsoft.com/pt-br/windows" target="_blank">
-        <img src="./assets/img/_NSAKEY11.png" width="50" height="50"> </a>
+        <img src="./assets/img/_NSAKEY.png" width="50" height="50"> </a>
     <a href="https://ubuntu.com/" target="_blank">
         <img src="./assets/img/ubuntu.png" width="50" height="50">
    </a>
