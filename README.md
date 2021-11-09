@@ -1,6 +1,6 @@
 <h1 align="left">👋 Olá, eu sou o Win! <img src="./assets/img/foxyoculos.png" height="20px"/></h1>
 
-![Metrics](https://metrics.lecoq.io/WinG4merBR?template=classic&base.repositories=0&config.timezone=America%2FSao_Paulo)
+![Metrics](https://metrics.lecoq.io/WinG4merBR?template=classic&base.repositories=0&languages=1&languages.limit=8&languages.sections=most-used&languages.colors=github&languages.threshold=0%25&languages.indepth=false&languages.analysis.timeout=15&languages.categories=markup%2C%20programming&languages.recent.categories=markup%2C%20programming&languages.recent.load=300&languages.recent.days=14&config.timezone=America%2FSao_Paulo)
 
 
 <h3 align="center">🔨 <b>›</b> Ferramentas</h3>
