@@ -35,6 +35,5 @@
 </ul>
 
 <div>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=WinG4merBR&show_icons=true&theme=dark">
     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=WinG4merBR&layout=compact&theme=dark">
 </div>
