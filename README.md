@@ -5,16 +5,10 @@
 
 <h3 align="center">🔨 <b>›</b> Ferramentas</h3>
 <p align="center">
-    <a href="https://www.microsoft.com/pt-br/windows" target="_blank">
-        <img src="./assets/img/_NSAKEY.png" width="50" height="50"> </a>
-    <a href="https://ubuntu.com/" target="_blank">
-        <img src="./assets/img/ubuntu.png" width="50" height="50">
-   </a>
+    <a href="https://fedoraproject.org" target="_blank">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Fedora-logo.svg/768px-Fedora-logo.svg.png" width="50" height="50"> </a>
     <a href="https://code.visualstudio.com/" target="_blank">
         <img src="./assets/img/vscode.png" width="50" height="50">
-    </a>
-    <a href="https://github.com/microsoft/terminal" target="_blank">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/0/01/Windows_Terminal_Logo_256x256.png" width="50" height="50">
     </a>
    <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>
     <a href="https://expressjs.com" target="_blank">
