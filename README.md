@@ -7,8 +7,6 @@
 <p align="center">
     <a href="https://windows.com/" target="_blank">
         <img src="./assets/img/_NSAKEY.png" width="50" height="50"></a>
-    <a href="https://fedoraproject.org" target="_blank">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Fedora-logo.svg/768px-Fedora-logo.svg.png" width="50" height="50"> </a>
     <a href="https://code.visualstudio.com/" target="_blank">
         <img src="./assets/img/vscode.png" width="50" height="50">
     </a>
