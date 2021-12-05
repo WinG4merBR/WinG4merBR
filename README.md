@@ -3,7 +3,7 @@
 <p align="center">
 <a href="https://twitter.com/wing4merbr" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="wing4merbr" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/vitor-silva-45881721b/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/vitor-silva-45881721b/" height="30" width="40" /></a>
-<a href="https://discord.gg/Tj6AMkbXbA" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Tj6AMkbXbA" height="30" width="40" /></a>
+<a href="https://discord.com/users/633764019559202836" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Tj6AMkbXbA" height="30" width="40" /></a>
 </p>
 
 <h3 align="center">Languages and Tools:</h3>
