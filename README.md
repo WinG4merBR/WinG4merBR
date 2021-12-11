@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm WinG4merBR</h1>
+<h1 align="center">👋 | Hi, I'm WinG4merBR</h1>
 <h3 align="center">Connect with me:</h3>
 <p align="center">
 <a href="https://twitter.com/wing4merbr" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="wing4merbr" height="30" width="40" /></a>
