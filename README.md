@@ -1,6 +1,13 @@
 <h1 align="center">👋 | Hi, I'm WinG4merBR</h1>
 <div align="center">
    
+   <h3 align="center">Connect with me:</h3>
+<p align="center">
+<a href="https://twitter.com/wing4merbr" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="wing4merbr" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/vitor-silva-45881721b/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/vitor-silva-45881721b/" height="30" width="40" /></a>
+<a href="https://discord.com/users/687867247116812378" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Tj6AMkbXbA" height="30" width="40" /></a>
+</p>
+   
 ### 💻 | Languages and Tools
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="30"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="30"/>
@@ -14,7 +21,14 @@
 <br>
 <br>
 
-[![Discord Presence](https://lanyard.cnrad.dev/api/687867247116812378?bg=1f1f1f&borderRadius=5px)](https://discord.com/users/687867247116812378)
+<details align="left">
+   <summary>Outros</summary>
+   <br>
+   
+   [![Discord Presence](https://lanyard.cnrad.dev/api/687867247116812378?bg=1f1f1f&borderRadius=5px)](https://discord.com/users/687867247116812378)
 ![Win's GitHub stats](https://github-readme-stats.vercel.app/api?username=WinG4merBR&show_icons=true)
+   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=WinG4merBR&layout=compact)](https://github.com/WinG4merBR)
+
+</details>
 </div>
 
