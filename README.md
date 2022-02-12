@@ -14,10 +14,7 @@
 <br>
 <br>
 
-<a href="https://discord.com/users/687867247116812378" target="_blank">
-	<img width="35%" alt="Discord Status" src="https://lanyard.cnrad.dev/api/687867247116812378?bg=1f1f1f&borderRadius=5px">
-</a>
-
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=WinG4merBR&theme=dracula)
+[![Discord Presence](https://lanyard.cnrad.dev/api/687867247116812378?bg=1f1f1f&borderRadius=5px)](https://discord.com/users/687867247116812378)
+![Win's GitHub stats](https://github-readme-stats.vercel.app/api?username=WinG4merBR&show_icons=true)
 </div>
 
