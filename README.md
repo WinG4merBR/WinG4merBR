@@ -1,11 +1,4 @@
 <h1 align="center">👋 | Hi, I'm WinG4merBR</h1>
-<h3 align="center">Connect with me:</h3>
-<p align="center">
-<a href="https://twitter.com/wing4merbr" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="wing4merbr" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/vitor-silva-45881721b/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/vitor-silva-45881721b/" height="30" width="40" /></a>
-<a href="https://discord.com/users/687867247116812378" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Tj6AMkbXbA" height="30" width="40" /></a>
-</p>
-
 <div align="center">
    
 ### 💻 | Languages and Tools
@@ -20,6 +13,10 @@
 
 <br>
 <br>
+
+<a href="https://discord.com/users/687867247116812378" target="_blank">
+	<img width="35%" alt="Discord Status" src="https://lanyard.cnrad.dev/api/687867247116812378?bg=1f1f1f&borderRadius=5px">
+</a>
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=WinG4merBR&theme=dracula)
 </div>
