@@ -27,7 +27,6 @@
    
    [![Discord Presence](https://lanyard.cnrad.dev/api/687867247116812378?bg=1f1f1f&borderRadius=5px)](https://discord.com/users/687867247116812378)
 ![Win's GitHub stats](https://github-readme-stats.vercel.app/api?username=WinG4merBR&show_icons=true)
-   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=WinG4merBR&layout=compact)](https://github.com/WinG4merBR)
 
 </details>
 </div>
