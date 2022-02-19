@@ -26,7 +26,7 @@
    <summary>Outros</summary>
    <br>
    
-   [![Discord Presence](https://lanyard.cnrad.dev/api/687867247116812378?bg=1f1f1f&borderRadius=5px)](https://discord.com/users/687867247116812378)
+   ![Top Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=wing4merbr&layout=compact)
 ![Win's GitHub stats](https://github-readme-stats.vercel.app/api?username=WinG4merBR&show_icons=true)
 
 </details>
