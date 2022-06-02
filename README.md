@@ -26,7 +26,11 @@
    <br>
    
    ![Top Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=wing4merbr&layout=compact)
-![Win's GitHub stats](https://github-readme-stats.vercel.app/api?username=WinG4merBR&show_icons=true)
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=WinG4merBR&theme=tokyonight" alt="mystreak"/>
+   
+   ![Contribution](https://activity-graph.herokuapp.com/graph?username=WinG4merBR&theme=react-dark&hide_border=true&area=true)
+
+
 
 </details>
 </div>
