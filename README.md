@@ -20,15 +20,12 @@
 <br>
 <br>
 
-<details align="left">
+<details align="center">
    <summary>Outros</summary>
-   <br>
-   
-   ![Top Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=wing4merbr&layout=compact)
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=WinG4merBR&theme=tokyonight" alt="mystreak"/>
    
    ![Contribution](https://activity-graph.herokuapp.com/graph?username=WinG4merBR&theme=react-dark&hide_border=true&area=true)
-
+   
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=3nd97bb2ce98xmx8obkyejm09&cover_image=true&theme=default&bar_color=53b14f&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
 
 
 </details>
