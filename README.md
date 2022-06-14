@@ -1,5 +1,4 @@
 <h1 align="center">Hi 👋, I'm WinG4merBR</h1>
-<h3 align="center">Howdy, I'm WinG4merBR, but you can call me Win or WinGamer, I'm Foxy Creator, but what is Foxy? So, Foxy is a multipurpose, multilingual and very, very cutest bot for Discord! :3</h3>
 
 - 🔭 I’m currently working on [Foxy](https://github.com/FoxyTheBot/Foxy)
 
