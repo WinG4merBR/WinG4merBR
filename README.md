@@ -9,7 +9,6 @@
 + I'm currently working on Foxy and learning Kotlin, Java and Mobile Development
 ```
 <br>
-
-<p align="center"><a href="https://ko-fi.com/wing4merbr"> <img align="center" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="wing4merbr" /></a></p>
-
 </p>
+
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/H2H4D9T3S)
